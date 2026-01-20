@@ -2090,7 +2090,7 @@ font_medium = lv_tiny_ttf_create_data(xiaozhi_font, xiaozhi_font_size, medium_fo
                         xz_aec_mic_open(thiz);    
                     }
 #endif                                       
-                xiaozhi_ui_chat_status("聆听中...");
+                xiaozhi_ui_chat_status("悉耳恭听...");
                 break;
                 
             case BUTTON_EVENT_RELEASED:
